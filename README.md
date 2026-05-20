@@ -40,5 +40,7 @@ Everyday Functioning Prompts:
   “How is encryption used in daily life when sending WhatsApp messages?”
 
   OUTPUT:
+[Exp 4 PE.pdf](https://github.com/user-attachments/files/28044314/Exp.4.PE.pdf)
 
   RESULT:
+Prompt has been written for the above mentioned prompt types.
